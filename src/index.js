@@ -1,4 +1,4 @@
-import SauceLabsConnector from 'saucelabs-connector';
+import SauceLabsConnector from '@otto-de/saucelabs-connector';
 import parseCapabilities from 'desired-capabilities';
 import requestAPI from 'request';
 import Promise from 'pinkie';
